@@ -1,0 +1,320 @@
+{
+  "note": "Paths relative to the original project root. New publication documents are not source copies.",
+  "files": [
+    {
+      "file": "firmware/.ccsproject",
+      "source": "P20_M0G3519_Ramp/.ccsproject",
+      "sha256": "8c3b1a3b2635caa26f9b20df552cf2aa100d16747a4c04d80a5203416e9da281",
+      "published_sha256": "5c802875c133058e2b6fb61b08f2ae2b7829042c158c4fca8ef66825d5926772",
+      "modified_for_publication": true
+    },
+    {
+      "file": "firmware/.cproject",
+      "source": "P20_M0G3519_Ramp/.cproject",
+      "sha256": "b9c6ef78ed0c47d41d0f29ffcfa528d8bf8e4dcaea8d9c17b87cdd8437343200",
+      "published_sha256": "9d9c24bfa6965c6e97220c22b7420fbb262acf9f2fd94c46d927ebeed7f0c662",
+      "modified_for_publication": true
+    },
+    {
+      "file": "firmware/.project",
+      "source": "P20_M0G3519_Ramp/.project",
+      "sha256": "49a0df1d3618c939dc8d08fd07390549061d901560060ad13a435951eb2e1337",
+      "published_sha256": "49a0df1d3618c939dc8d08fd07390549061d901560060ad13a435951eb2e1337",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Algorithm/Ramp.c",
+      "source": "P20_M0G3519_Ramp/Algorithm/Ramp.c",
+      "sha256": "27ddb99631e41f3f56230dce1ee928e6b5224574b01f7d70430dc5c07eca511f",
+      "published_sha256": "27ddb99631e41f3f56230dce1ee928e6b5224574b01f7d70430dc5c07eca511f",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Algorithm/Ramp.h",
+      "source": "P20_M0G3519_Ramp/Algorithm/Ramp.h",
+      "sha256": "1749488d1f09ba10af33912073939bdf8c9f2a08dd6fbf939c7ee03867171c76",
+      "published_sha256": "1749488d1f09ba10af33912073939bdf8c9f2a08dd6fbf939c7ee03867171c76",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Application/Gray_Track.c",
+      "source": "P20_M0G3519_Ramp/Application/Gray_Track.c",
+      "sha256": "da9326601f1b92547e622924a8f1dd3522075a8c29550d85d69d9bb9c541b96d",
+      "published_sha256": "da9326601f1b92547e622924a8f1dd3522075a8c29550d85d69d9bb9c541b96d",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Application/Gray_Track.h",
+      "source": "P20_M0G3519_Ramp/Application/Gray_Track.h",
+      "sha256": "5d065885d3f0a8882a592be58f3c15f31b86d106bcc7c315784d69d96746b089",
+      "published_sha256": "5d065885d3f0a8882a592be58f3c15f31b86d106bcc7c315784d69d96746b089",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Application/task.c",
+      "source": "P20_M0G3519_Ramp/Application/task.c",
+      "sha256": "04f883c477a8b83b5a96bc5dc4de42e96182ac3911dea08a342de87e3449d5a5",
+      "published_sha256": "04f883c477a8b83b5a96bc5dc4de42e96182ac3911dea08a342de87e3449d5a5",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Application/task.h",
+      "source": "P20_M0G3519_Ramp/Application/task.h",
+      "sha256": "cd416c59a17f545c2f26308709760627b6f08efc48946559e9f0e0a389af4042",
+      "published_sha256": "cd416c59a17f545c2f26308709760627b6f08efc48946559e9f0e0a389af4042",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Driver/UART.c",
+      "source": "P20_M0G3519_Ramp/Driver/UART.c",
+      "sha256": "c16cd428f403c2ab216ca399b83961f6aea00c1c3b1c76ca8eac04e9a23f7574",
+      "published_sha256": "c16cd428f403c2ab216ca399b83961f6aea00c1c3b1c76ca8eac04e9a23f7574",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Driver/UART.h",
+      "source": "P20_M0G3519_Ramp/Driver/UART.h",
+      "sha256": "b4a83e64c623a1210028a2db46914aa9d01255496c919ddb41cc89b4813a9e0b",
+      "published_sha256": "b4a83e64c623a1210028a2db46914aa9d01255496c919ddb41cc89b4813a9e0b",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Buzzer.c",
+      "source": "P20_M0G3519_Ramp/Hardware/Buzzer.c",
+      "sha256": "7b5902aa7acc446ee10864d8018a1237fcf57d94d4d2b9ca71f4c507bc369099",
+      "published_sha256": "7b5902aa7acc446ee10864d8018a1237fcf57d94d4d2b9ca71f4c507bc369099",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Buzzer.h",
+      "source": "P20_M0G3519_Ramp/Hardware/Buzzer.h",
+      "sha256": "7925733834bf750a042a66dc52a009eb0b50da9a8df87dc705b10460e2227756",
+      "published_sha256": "7925733834bf750a042a66dc52a009eb0b50da9a8df87dc705b10460e2227756",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Encoder.c",
+      "source": "P20_M0G3519_Ramp/Hardware/Encoder.c",
+      "sha256": "be68cac51cfdab7dbf19ded565d985aacc32503c3dee17b0f0d2c5ccbb1240b9",
+      "published_sha256": "be68cac51cfdab7dbf19ded565d985aacc32503c3dee17b0f0d2c5ccbb1240b9",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Encoder.h",
+      "source": "P20_M0G3519_Ramp/Hardware/Encoder.h",
+      "sha256": "4b68bcbc7e7f2be6f77318ccc9c6ea2507e44da7920bcb5839c9559b43a3776e",
+      "published_sha256": "4b68bcbc7e7f2be6f77318ccc9c6ea2507e44da7920bcb5839c9559b43a3776e",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Gyro.c",
+      "source": "P20_M0G3519_Ramp/Hardware/Gyro.c",
+      "sha256": "6ea1e39aa0fefe2293afd6358d9904db43a3241e363d199818b435dabbf36446",
+      "published_sha256": "6ea1e39aa0fefe2293afd6358d9904db43a3241e363d199818b435dabbf36446",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Gyro.h",
+      "source": "P20_M0G3519_Ramp/Hardware/Gyro.h",
+      "sha256": "97b2cd5dc7d4139a5fe9de11007f213bd1fe514c2a256fc3248672abad93f931",
+      "published_sha256": "97b2cd5dc7d4139a5fe9de11007f213bd1fe514c2a256fc3248672abad93f931",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/ips200.c",
+      "source": "P20_M0G3519_Ramp/Hardware/ips200.c",
+      "sha256": "6d227ad35b3b1df8ef6e6663fcb5458c76c434f56cf19d35bb644f8f8074f001",
+      "published_sha256": "6d227ad35b3b1df8ef6e6663fcb5458c76c434f56cf19d35bb644f8f8074f001",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/ips200.h",
+      "source": "P20_M0G3519_Ramp/Hardware/ips200.h",
+      "sha256": "6b9b9289d34c641cdc0fa7a63eb0dd6f3ef83fe4318fe5229724d6cff761cc6a",
+      "published_sha256": "6b9b9289d34c641cdc0fa7a63eb0dd6f3ef83fe4318fe5229724d6cff761cc6a",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Key.c",
+      "source": "P20_M0G3519_Ramp/Hardware/Key.c",
+      "sha256": "e64ac6233b9d924907a3902e7c52a8ef11d8e39dcb3b92307cb0111a3a2a3601",
+      "published_sha256": "e64ac6233b9d924907a3902e7c52a8ef11d8e39dcb3b92307cb0111a3a2a3601",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Key.h",
+      "source": "P20_M0G3519_Ramp/Hardware/Key.h",
+      "sha256": "aea23a30c0af29e03c999a84c3e4b6f06c86f582a4a31753393e02b7a126fee3",
+      "published_sha256": "aea23a30c0af29e03c999a84c3e4b6f06c86f582a4a31753393e02b7a126fee3",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Motor.c",
+      "source": "P20_M0G3519_Ramp/Hardware/Motor.c",
+      "sha256": "471493be85a644cac5f301fe6302df4f4cff90caacc73aad79e1e1e0245bf864",
+      "published_sha256": "471493be85a644cac5f301fe6302df4f4cff90caacc73aad79e1e1e0245bf864",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Motor.h",
+      "source": "P20_M0G3519_Ramp/Hardware/Motor.h",
+      "sha256": "5a66ddc59f58c4ceb05857622c0cde7bd8538fa95db8cb7943046b6da970a74d",
+      "published_sha256": "5a66ddc59f58c4ceb05857622c0cde7bd8538fa95db8cb7943046b6da970a74d",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/PID.c",
+      "source": "P20_M0G3519_Ramp/Hardware/PID.c",
+      "sha256": "5ed1fc04235bdef48ddb9efeaefa4addd1e229be75589b07d452e9f9b60d5570",
+      "published_sha256": "5ed1fc04235bdef48ddb9efeaefa4addd1e229be75589b07d452e9f9b60d5570",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/PID.h",
+      "source": "P20_M0G3519_Ramp/Hardware/PID.h",
+      "sha256": "96b0723ff37ae9c51a2c79eb99b21b8f995a5041830d1594bb22aff0dfbbae4e",
+      "published_sha256": "96b0723ff37ae9c51a2c79eb99b21b8f995a5041830d1594bb22aff0dfbbae4e",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/PWM.c",
+      "source": "P20_M0G3519_Ramp/Hardware/PWM.c",
+      "sha256": "999da2872c2b726a210054f5c7b721241ccf5957f0d251a61ba7907bfb80eb9a",
+      "published_sha256": "999da2872c2b726a210054f5c7b721241ccf5957f0d251a61ba7907bfb80eb9a",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/PWM.h",
+      "source": "P20_M0G3519_Ramp/Hardware/PWM.h",
+      "sha256": "5565e093f33b181177740c9453e33282cd5b1c74976a1cbbb1a1db58cd341716",
+      "published_sha256": "5565e093f33b181177740c9453e33282cd5b1c74976a1cbbb1a1db58cd341716",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Timer.c",
+      "source": "P20_M0G3519_Ramp/Hardware/Timer.c",
+      "sha256": "dea46284e0825b98ae71100d904ff6fa15059c093284564e54dadfddc209b912",
+      "published_sha256": "dea46284e0825b98ae71100d904ff6fa15059c093284564e54dadfddc209b912",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Timer.h",
+      "source": "P20_M0G3519_Ramp/Hardware/Timer.h",
+      "sha256": "2ef1e2017acd211ca03e9bc9d181ca1ffd81a47404da7d0d2c535a97fe115335",
+      "published_sha256": "2ef1e2017acd211ca03e9bc9d181ca1ffd81a47404da7d0d2c535a97fe115335",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Wireless_UART.c",
+      "source": "P20_M0G3519_Ramp/Hardware/Wireless_UART.c",
+      "sha256": "2086dc79e77a2bf5dc8f1d3e88d30566c1963ccb519122773bef8fbc81219943",
+      "published_sha256": "2086dc79e77a2bf5dc8f1d3e88d30566c1963ccb519122773bef8fbc81219943",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/Hardware/Wireless_UART.h",
+      "source": "P20_M0G3519_Ramp/Hardware/Wireless_UART.h",
+      "sha256": "abb0138606c71627c9e222307ac36bf7f96b7641f1f1393d6ff7e1ac497a12d1",
+      "published_sha256": "abb0138606c71627c9e222307ac36bf7f96b7641f1f1393d6ff7e1ac497a12d1",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/main.c",
+      "source": "P20_M0G3519_Ramp/main.c",
+      "sha256": "b3dd70e1239b96a16503417ebc4607a27a8733682d4a6cb67e28541ddbdaec92",
+      "published_sha256": "b3dd70e1239b96a16503417ebc4607a27a8733682d4a6cb67e28541ddbdaec92",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/main.h",
+      "source": "P20_M0G3519_Ramp/main.h",
+      "sha256": "5db0c20ee09ba5403c6b1e5fdb75111cc8745c9a0311cecb1c10d3805b178b3e",
+      "published_sha256": "5db0c20ee09ba5403c6b1e5fdb75111cc8745c9a0311cecb1c10d3805b178b3e",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/main.syscfg",
+      "source": "P20_M0G3519_Ramp/main.syscfg",
+      "sha256": "572fb4d9261a601bcc4082d0a1ff7d6ca029c454867c17e2e4ac500e1ba39c0f",
+      "published_sha256": "572fb4d9261a601bcc4082d0a1ff7d6ca029c454867c17e2e4ac500e1ba39c0f",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/README_Gray16_Calibration.md",
+      "source": "P20_M0G3519_Ramp/README_Gray16_Calibration.md",
+      "sha256": "2679c533ce79c2251f882ab7c381b14fd49157cfa86b069b707c122908130c5f",
+      "published_sha256": "f1e7712389c987abcc6cdc49d35dbbcb28975d8f8729990c2a7f481d3cfb0b76",
+      "modified_for_publication": true
+    },
+    {
+      "file": "firmware/README_TaskSelect.md",
+      "source": "P20_M0G3519_Ramp/README_TaskSelect.md",
+      "sha256": "e1f04fa7bbf1817f35bf14b8eafffa5fbaacc9ac73c41f873258a7324b3f1584",
+      "published_sha256": "d3b8f93aa35c68b82edae8b65d64bb312f1261d1dd6f32edcc8bb654b7ade364",
+      "modified_for_publication": true
+    },
+    {
+      "file": "firmware/System/Board_Config.h",
+      "source": "P20_M0G3519_Ramp/System/Board_Config.h",
+      "sha256": "fc4813945e7dd49184b0e3dad4205710ef9043ea6e319f34232583f611ecd700",
+      "published_sha256": "fc4813945e7dd49184b0e3dad4205710ef9043ea6e319f34232583f611ecd700",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/Clock.c",
+      "source": "P20_M0G3519_Ramp/System/Clock.c",
+      "sha256": "7a83bcf40757b768c7beb4af90e90607fb4954c5ffcf2affbb1a7cb30bc5ca26",
+      "published_sha256": "7a83bcf40757b768c7beb4af90e90607fb4954c5ffcf2affbb1a7cb30bc5ca26",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/Clock.h",
+      "source": "P20_M0G3519_Ramp/System/Clock.h",
+      "sha256": "af64ff0493b0552df224a208ef1a4e7b0047df9ff701cf187aeb15d64be1a06f",
+      "published_sha256": "af64ff0493b0552df224a208ef1a4e7b0047df9ff701cf187aeb15d64be1a06f",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/ips200_config.h",
+      "source": "P20_M0G3519_Ramp/System/ips200_config.h",
+      "sha256": "20c642984ccfbb455cb3c55d77fdb87b81e8f9d0e938008def80376f4568d875",
+      "published_sha256": "20c642984ccfbb455cb3c55d77fdb87b81e8f9d0e938008def80376f4568d875",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/ISR.c",
+      "source": "P20_M0G3519_Ramp/System/ISR.c",
+      "sha256": "694e73e96ab871a48664aa11501f46b2441652d04e05e4fbdbeccebad8af6f65",
+      "published_sha256": "694e73e96ab871a48664aa11501f46b2441652d04e05e4fbdbeccebad8af6f65",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/System/ISR.h",
+      "source": "P20_M0G3519_Ramp/System/ISR.h",
+      "sha256": "8540bc3383b05b2605b1e0bbb651da849360048f2aebe954e1c3595c4d87dc95",
+      "published_sha256": "8540bc3383b05b2605b1e0bbb651da849360048f2aebe954e1c3595c4d87dc95",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/targetConfigs/MSPM0G3519.ccxml",
+      "source": "P20_M0G3519_Ramp/targetConfigs/MSPM0G3519.ccxml",
+      "sha256": "adeb3b6e970d27b63096fc42f600d03990e25d044ddc0c76875e1158d333e15a",
+      "published_sha256": "adeb3b6e970d27b63096fc42f600d03990e25d044ddc0c76875e1158d333e15a",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/targetConfigs/readme.txt",
+      "source": "P20_M0G3519_Ramp/targetConfigs/readme.txt",
+      "sha256": "02feca4db7d4036c8bf7f75554ce0cc4798454d6ce1aa003934d95410587280e",
+      "published_sha256": "02feca4db7d4036c8bf7f75554ce0cc4798454d6ce1aa003934d95410587280e",
+      "modified_for_publication": false
+    },
+    {
+      "file": "firmware/tools/gray16_calibrate.py",
+      "source": "P20_M0G3519_Ramp/tools/gray16_calibrate.py",
+      "sha256": "8ae19ec908090b7d134a2e8744b7bb5948e591ee30ec419bd99e3f1f0d42e9ea",
+      "published_sha256": "8ae19ec908090b7d134a2e8744b7bb5948e591ee30ec419bd99e3f1f0d42e9ea",
+      "modified_for_publication": false
+    }
+  ]
+}

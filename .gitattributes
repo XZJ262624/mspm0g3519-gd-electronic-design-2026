@@ -1,0 +1,8 @@
+# Preserve source bytes, including original encodings and CRLF.
+* -text
+/README.md text eol=lf
+/docs/*.md text eol=lf
+/docs/*.json text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+libraries/** linguist-vendored
